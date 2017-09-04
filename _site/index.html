@@ -67,7 +67,7 @@ ul.topnav li.right {float: right;}
 <ul class="topnav">
   <li><a class="active" href="http://www.alephinsights.com">Home</a></li>
   <li><a href="http://blog.alephinsights.com">blog</a></li>
-  </ul>
+</ul>
 
     <section class="page-header">
   <h1 class="project-name">Aleph Labs</h1>
@@ -78,25 +78,32 @@ ul.topnav li.right {float: right;}
 
 
     <section class="main-content">
-      <h1 id="heading">Heading</h1>
+      <style>
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+div.gallery:hover {
+    border: 1px solid #777;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
 
-<p>some content</p>
-
-<p><a href="./another-page.html">another page</a>
-<a href="./">back</a></p>
-
-<ul>
-  <li>
-    <p>one</p>
-  </li>
-  <li>
-    <p>two</p>
-  </li>
-  <li>
-    <p>three</p>
-  </li>
-</ul>
-
+<div class="gallery">
+  <a target="ARGA" href="pages/ARGA.html">
+    <img src="images/ARGAicon.png" alt="Adaptive Report Generation Assistant" width="300" height="200">
+  </a>
+  <div class="desc">Adaptive Report Generation Assistant</div>
+</div>
 
     </section>
 
