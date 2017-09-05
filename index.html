@@ -22,14 +22,16 @@ sections:
   <h1>{{c}}</h1>
 {% for page in site.pages %}
   {% if page.categories contains {{c}} %}
-    <div class="gallery">
-      <a target="{{ page.title }}" href="{{ page.url }}">
-        <img src="{{ page.icon }}" alt="{{ page.iconAlt }}" width="300" height="200">
-      </a>
-      <div class="desc">{{ page.description }}</div>
-      <!-- <h3>{{page.title}}</h3>
-      <p>{{page.description}}</p> -->
-    </div>
+    {% if page.title != 'TEMPLATE' %}
+      <div class="gallery">
+        <a target="{{ page.title }}" href="{{ page.url }}">
+          <img src="{{ page.icon }}" alt="{{ page.iconAlt }}" width="300" height="200">
+        </a>
+        <div class="desc">{{ page.description }}</div>
+        <!-- <h3>{{page.title}}</h3>
+        <p>{{page.description}}</p> -->
+      </div>
+    {% endif %}
   {% endif %}
 {% endfor %}
   </div>
