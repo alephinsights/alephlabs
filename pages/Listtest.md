@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: normal
+title: Test
 stuff:
   - one
   - two

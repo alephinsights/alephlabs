@@ -24,6 +24,26 @@
     <link rel="icon"
       type="image/png"
       href='/favicon.ico'>
+
+      <style>
+      div.gallery {
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 180px;
+      }
+      div.gallery:hover {
+          border: 1px solid #777;
+      }
+      div.gallery img {
+          width: 100%;
+          height: auto;
+      }
+      div.desc {
+          padding: 15px;
+          text-align: center;
+      }
+      </style>
   </head>
   <body>
 
@@ -65,8 +85,9 @@ ul.topnav li.right {float: right;}
 <body>
 
 <ul class="topnav">
-  <li><a class="active" href="http://www.alephinsights.com">Home</a></li>
-  <li><a href="http://blog.alephinsights.com">blog</a></li>
+  <li><a class="active" href="/">Top</a></li>
+  <li><a href="http://www.alephinsights.com">Home</a></li>
+  <li><a href="http://blog.alephinsights.com">Blog</a></li>
 </ul>
 
     <section class="page-header">
@@ -78,27 +99,7 @@ ul.topnav li.right {float: right;}
 
 
     <section class="main-content">
-      <style>
-div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-}
-div.gallery:hover {
-    border: 1px solid #777;
-}
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
-</style>
-
-<div class="gallery">
+      <div class="gallery">
   <a target="ARGA" href="pages/ARGA.html">
     <img src="images/ARGAicon.png" alt="Adaptive Report Generation Assistant" width="300" height="200">
   </a>
