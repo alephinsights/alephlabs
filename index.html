@@ -1,11 +1,36 @@
 ---
 title: Top Page
 layout: gallary
+sections:
+  - consultancy
+  - tool
+  - project
+  - research
 ---
 
-<div class="gallery">
+<!-- <div class="gallery">
   <a target="ARGA" href="pages/ARGA.html">
     <img src="images/ARGAicon.png" alt="Adaptive Report Generation Assistant" width="300" height="200">
   </a>
   <div class="desc">Adaptive Report Generation Assistant</div>
-</div>
+</div> -->
+
+{% for c in page.sections %}
+  <div class="" style="clear: both">
+
+
+  <h1>{{c}}</h1>
+{% for page in site.pages %}
+  {% if page.categories contains {{c}} %}
+    <div class="gallery">
+      <a target="{{ page.title }}" href="{{ page.url }}">
+        <img src="{{ page.icon }}" alt="{{ page.iconAlt }}" width="300" height="200">
+      </a>
+      <div class="desc">{{ page.description }}</div>
+      <!-- <h3>{{page.title}}</h3>
+      <p>{{page.description}}</p> -->
+    </div>
+  {% endif %}
+{% endfor %}
+  </div>
+{% endfor %}
