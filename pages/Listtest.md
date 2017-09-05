@@ -6,6 +6,7 @@ stuff:
   - two
   - three
 list: [1 2 3 4 5 6]
+sitemap: false
 ---
 # list of pages
 {% for s in site.pages %}
