@@ -3,6 +3,10 @@
 ## About
 A show case of some of the projects we've been working on.
 
+# Adding Pages
+Add .md (or .html) files to the /pages directory. Use the template file as a guide.
+
+
 ## Theme
 
 Based on the [Cayman theme](https://github.com/jasonlong/cayman-theme) with some modifications.
