@@ -19,8 +19,9 @@ ARGA is being funded through the [Defence and Security Accelerator](https://www.
 
 Across the whole of Defence, large amounts of text data are routinely produced in an unstructured format, limiting data retrieval and impeding optimal decision-making. ARGA seeks to reduce the burden this creates at source by intelligently assisting authors to apply meaningful structure to text as they write, ultimately creating an adaptive information bridge between data producers and data consumers.
 
+{:class='equal borderless largerow'}
 | ![Illustration showing: Before ARGA - Data producers and consumers confused, frustrated at the lack of order and structure of text based data](../images/ARGA_Unstructured_model.png) | ![Illustration showing: With ARGA - Data producers and consumers no longer confused as the ARGA system helps keep text data in a more ledgible stucture](../images/ARGA_Structured_model.png) |
-| Before: Text document organisational structure is not linked to their meaning and content | With ARGA: Text documents are organised based on what they represent |
+| **Before:** Text document organisational structure is not linked to their meaning and content | **With ARGA:** Text documents are organised based on what they represent |
 
 ## Why is ARGA novel?
 
@@ -30,8 +31,9 @@ ARGA focuses on tackling difficult open problems, such as: word/phrase predictio
 
 ARGA is designed to become a key tool within an integrated information environment. It has the potential to enhance the structure of text data for a wide range of systems used in a variety of defence tasks. Phase 2 will focus on increasing ARGA’s capability and enabling it to interact with other systems, either by providing structured text data or by consuming specialised datasets to improve its ability to learn. We are therefore interested to discuss collaboration with other project teams in order to explore potential integrated tools.
 
-## The project team
+## The Project Team
 
+{:class='equal borderless'}
 | [![Aleph Insights Logo](../images/logo_aleph.png)](www.alephinsights.com) | ![Bricolage Logo](../images/logo_bricolage.png) | [![Committed Software Logo](../images/logo_committed.png)](http://committed.software/) |
 | --- | --- | --- |
 | Aleph Insights is a London-based analytical consultancy that was founded in 2014. The company specialises in supporting strategic decision-making in business and industry, as well as in defence, security, intelligence and international affairs. | Bricolage offers specialised qualitative and quantitative data analysis and research solutions. We have expertise in creating bespoke ontologies for NLP and ML tasks and in using text analytics tools on large unstructured datasets from diverse sources to discover additional insights and new knowledge. | Committed software are ex-mathematicians looking for real world problems to solve. With 15 years experience in creating bespoke software we've built everything from small tools to cloud based enterprise applications. |
