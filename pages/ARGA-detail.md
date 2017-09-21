@@ -13,14 +13,14 @@ sitemap: true
 
 ## The Project
 
-ARGA is being funded through the Defence and Security Accelerator under the ‘Revolutionise the Human Information Relationship for Defence’ call.  It aims to solve the information management and analysis problems stemming from the use of unstructured natural language text. Phase 1 of ARGA’s development will be completed in December 2017. The project team are keen to gather information and ideas to help shape its thinking about Phase 2 developments, so please get in touch using the provided contact details below if you have any thoughts you would like to share.
+ARGA is being funded through the [Defence and Security Accelerator](https://www.gov.uk/government/organisations/defence-and-security-accelerator) under the [‘Revolutionise the Human Information Relationship for Defence’](https://www.gov.uk/government/publications/accelerator-themed-competition-revolutionise-the-human-information-relationship-for-defence) call.  It aims to solve the information management and analysis problems stemming from the use of unstructured natural language text. Phase 1 of ARGA’s development will be completed in December 2017. The project team are keen to gather information and ideas to help shape its thinking about Phase 2 developments, so please get in touch using the provided contact details below if you have any thoughts you would like to share.
 
 ## What does ARGA do?
 
 Across the whole of Defence, large amounts of text data are routinely produced in an unstructured format, limiting data retrieval and impeding optimal decision-making. ARGA seeks to reduce the burden this creates at source by intelligently assisting authors to apply meaningful structure to text as they write, ultimately creating an adaptive information bridge between data producers and data consumers.
 
 | ![Illustration showing: Before ARGA - Data producers and consumers confused, frustrated at the lack of order and structure of text based data](../images/ARGA_Unstructured_model.png) | ![Illustration showing: With ARGA - Data producers and consumers no longer confused as the ARGA system helps keep text data in a more ledgible stucture](../images/ARGA_Structured_model.png) |
-| Before: Text document organisational structure is not linked to their meaning and content | with ARGA: Text documents are organised based on what they represent |
+| Before: Text document organisational structure is not linked to their meaning and content | With ARGA: Text documents are organised based on what they represent |
 
 ## Why is ARGA novel?
 
@@ -38,4 +38,4 @@ ARGA is designed to become a key tool within an integrated information environme
 
 ## Contact
 
-If you have any thoughts about the future development of ARGA please get in contact directly with Peter Coghill from the project team (peter@alephinsights.com) or through Warren Marks, the dstl technical partner for this project (using Catalyst or via email: wmarks@dstl.gov.uk). We are particularly interested in any input relating to potential use cases or relevant test environments. We look forward to hearing from you.
+If you have any thoughts about the future development of ARGA please get in contact directly with [Peter Coghill](https://www.linkedin.com/in/coghill/) from the project team [peter@alephinsights.com](mailto:peter@alephinsights.com). We are particularly interested in any input relating to potential use cases or relevant test environments. We look forward to hearing from you.
