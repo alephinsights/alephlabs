@@ -3,7 +3,7 @@ title: ARGA Brochure
 description: Adaptive Report Generation Assistant
 layout: report
 categories: [tools]
-icon: /images/ARGAicon.png
+icon: /images/ARGA_Features.png
 iconAlt: ARGA logo
 show-on-top: true
 sitemap: true
