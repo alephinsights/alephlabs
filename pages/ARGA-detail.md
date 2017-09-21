@@ -1,6 +1,6 @@
 ---
-title: ARGA Brochure
-description: Adaptive Report Generation Assistant
+title: Adaptive Report Generation Assistant
+description: What is ARGA? And what can it do?
 layout: report
 categories: [tools]
 icon: /images/ARGA_Features.png
