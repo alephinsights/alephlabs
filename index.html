@@ -14,7 +14,7 @@ sections:
 
   <h1>{{c}}</h1>
 {% for page in site.pages %}
-  {% if page.categories contains {{c}} %}
+  {% if page.categories contains c %}
     {% if page.show-on-top == true %}
       <div class="gallery">
         <a target="{{ page.title }}" href="{{ page.url }}">
