@@ -24,7 +24,7 @@ Across the whole of Defence, large amounts of text data are routinely produced i
 
 ## Why is ARGA novel?
 
-ARGA focuses on tackling difficult open problems, such as: word/phrase prediction;  reconciliation of alternative spellings; word-sense disambiguation; corpus-wide co-reference for entities; automated relationship and event extraction; and the development of self-learning ontologies. Unlike most current attempts to solve these problems, ARGA focuses the ML effort on the report generation stage, rather than waiting until the report has been submitted or an entire corpus created. As such, it facilitates true human-machine teaming, so that data producers and ARGA become co-authors of a report.
+ARGA focuses on tackling difficult open problems, such as: word/phrase prediction;  reconciliation of alternative spellings; word-sense disambiguation; corpus-wide co-reference for entities; automated relationship and event extraction; and the development of self-learning ontologies. Unlike most current attempts to solve these problems, ARGA focuses the ML effort on the report generation stage, rather than waiting until the report has been submitted or an entire corpus created. As such, it facilitates true **human-machine teaming**, so that data producers and ARGA become co-authors of a report.
 
 ## Future plans for ARGA
 
@@ -38,4 +38,4 @@ ARGA is designed to become a key tool within an integrated information environme
 
 ## Contact
 
-If you have any thoughts about the future development of ARGA please get in contact directly with [Peter Coghill](https://www.linkedin.com/in/coghill/) from the project team [peter@alephinsights.com](mailto:peter@alephinsights.com). We are particularly interested in any input relating to potential use cases or relevant test environments. We look forward to hearing from you.
+If you have any thoughts about the future development of ARGA please get in contact directly with [Peter Coghill](https://www.linkedin.com/in/coghill/) from the project team [peter@alephinsights.com](mailto:peter@alephinsights.com?Subject=ARGA). We are particularly interested in any input relating to potential use cases or relevant test environments. We look forward to hearing from you.
