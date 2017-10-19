@@ -1,6 +1,6 @@
 ---
 title: Adaptive Report Generation Assistant
-description: What is ARGA? And what can it do?
+description: Create stuctured data about things in documents as you write.
 layout: report
 categories: [tools]
 icon: /images/ARGA_Features.png
