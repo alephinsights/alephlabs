@@ -17,6 +17,7 @@ sections:
   {% if page.categories contains c %}
     {% if page.show-on-top == true %}
       <div class="gallery">
+        <div class="desc">{{ page.title }}</div>
         <a target="{{ page.title }}" href="{{ page.url }}">
           <img src="{{ page.icon }}" alt="{{ page.iconAlt }}" width="300" height="200">
         </a>
