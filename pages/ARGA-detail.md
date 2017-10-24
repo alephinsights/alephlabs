@@ -19,6 +19,10 @@ ARGA is being funded through the [Defence and Security Accelerator](https://www.
 
 Across the whole of Defence, large amounts of text data are routinely produced in an unstructured format, limiting data retrieval and impeding optimal decision-making. ARGA seeks to reduce the burden this creates at source by intelligently assisting authors to apply meaningful structure to text as they write, ultimately creating an adaptive information bridge between data producers and data consumers.
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPh1vYWv6HQ?ecver=1" frameborder="0" allowfullscreen></iframe>
+</center>
+
 {:class='equal borderless'}
 | ![Illustration showing: Before ARGA - Data producers and consumers confused, frustrated at the lack of order and structure of text based data](../images/ARGA_Unstructured_model.png) | ![Illustration showing: With ARGA - Data producers and consumers no longer confused as the ARGA system helps keep text data in a more ledgible stucture](../images/ARGA_Structured_model.png) |
 | **Before:** Text document organisational structure is not linked to their meaning and content | **With ARGA:** Text documents are organised based on what they represent |
