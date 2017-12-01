@@ -17,7 +17,7 @@ Based on the [Cayman theme](https://github.com/jasonlong/cayman-theme) with some
 1. Setup [RVM](https://github.com/rvm/ubuntu_rvm)
 1. Setup ruby - `rvm install ruby`
 1. Install nodejs - `sudo apt install nodejs`
-1. Setup bundle and jekyll - `gem install budle && gem install jekyll`
+1. Setup bundle and jekyll - `gem install bundle && gem install jekyll`
 
 # Prep site to run locally
 - navigate to dir and run `bundle install`

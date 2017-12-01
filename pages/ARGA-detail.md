@@ -23,9 +23,17 @@ Across the whole of Defence, large amounts of text data are routinely produced i
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPh1vYWv6HQ?ecver=1" frameborder="0" allowfullscreen></iframe>
 </center>
 
+Without means of mining text, most documents end up in 'data landfills' after it has been exploited for its primary purpose. For example, emails languish in mail servers, intelligence reports fill up SharePoint sites. Without stucture, these artefacts cannot be exploited to generate insights. Attempts to retrospectively structure reports are manpower intensive, boring and difficult.
+
 {:class='equal borderless'}
-| ![Illustration showing: Before ARGA - Data producers and consumers confused, frustrated at the lack of order and structure of text based data](../images/ARGA_Unstructured_model.png) | ![Illustration showing: With ARGA - Data producers and consumers no longer confused as the ARGA system helps keep text data in a more ledgible stucture](../images/ARGA_Structured_model.png) |
+| ![Illustration showing: Before ARGA - Data producers and consumers confused, frustrated at the lack of order and structure of text based data](../images/ARGAbeforeARGA.png) | ![Illustration showing: With ARGA - Data producers and consumers no longer confused as the ARGA system helps keep text data in a more ledgible stucture](../images/ARGAafterARGA.png) |
 | **Before:** Text document organisational structure is not linked to their meaning and content | **With ARGA:** Text documents are organised based on what they represent |
+
+ARGA extends normal, natural language writing to capture structure at the point of creation. It provides a platform to capture more information about the subjects of a document from the person who knows most about whats written - the author. Further to this, ARGA can prompt the author to capture additional information that might have originally gone unspecified.
+
+![Illustration showing: Link between Document store and Knowledge base](../images/ARGAkblink.png)
+
+With a representation of the contents of the documents stored in the **Knowledge Base**, this information can be fused with other data stores and readily analysed. Text objects can now be linked with objects in other databases and the real world.
 
 ## Why is ARGA novel?
 
