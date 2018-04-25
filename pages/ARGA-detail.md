@@ -19,6 +19,9 @@ ARGA is being funded through the [Defence and Security Accelerator](https://www.
 
 Across the whole of Defence, large amounts of text data are routinely produced in an unstructured format, limiting data retrieval and impeding optimal decision-making. ARGA seeks to reduce the burden this creates at source by intelligently assisting authors to apply meaningful structure to text as they write, ultimately creating an adaptive information bridge between data producers and data consumers.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K79C8DcY8QE?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Here's a short demo showing the tool working.
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPh1vYWv6HQ?ecver=1" frameborder="0" allowfullscreen></iframe>
 </center>
