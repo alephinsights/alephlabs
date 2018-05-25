@@ -25,7 +25,7 @@ Across the whole of Defence, large amounts of text data are routinely produced i
 
 Here's a short demo showing the tool working.
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPh1vYWv6HQ?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0u0XpdsSB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
 Without means of mining text, most documents end up in 'data landfills' after it has been exploited for its primary purpose. For example, emails languish in mail servers, intelligence reports fill up SharePoint sites. Without stucture, these artefacts cannot be exploited to generate insights. Attempts to retrospectively structure reports are manpower intensive, boring and difficult.
