@@ -28,6 +28,8 @@ Here's a short demo showing the tool working.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0u0XpdsSB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
+If you can't access these videos, then you can download them [here](https://00e9e64bac3d37631e134940b7087d650ea8d9c4f317745818-apidata.googleusercontent.com/download/storage/v1/b/www.arga.uk/o/arga-concept.mp4?qk=AD5uMEu8qMnh3nsVxQLm0D6A8enDTP7yICiIoE4jZTLF4tQWc_9C30VMJNkxf4gGoKxFALUZuAy7COmGLP6H-s1_ZTuDbj6flcz8HRd1b1yv-r1kT1OyUpGse1mF20e2naKheCz_QHUplk934wo4KIO0NoEcCvx-A_p9lJnrJp-ziaMOuLjXJ7Pwp_Q5F8iCUvXs5_NKISHzyhQ8jVLL_qKfnrTtTqGZcR60Yrb-ZtpNDhwzePyy-cBCFLYuRRjLmTCxFGC3yYPJqIksbM9Qo5JIPBUUyIdxCiKtQcteFMBlIKmD_ND322B-bIiH77VUqkL3pnxdeQ4IhCsm47UGHk6vDoJche_aFUpGdrseQfmZif7KACcCPPrEfopG5Xe5_ELvZV-sMPPvyhOXzeCZTaFhxuihAUKflP6g8xTBtxZHlIXApYtESG_XNQQWub2MkTChNvFIoEnHGcsCXXecps07DGPZ1ZYVeg-Ttw3yuRzz_5cAfaPnctWneveZ6dvUhI26V_2lVjpkRJ4bm6vJ5rtpobic_zsqdWDQf_66WT3piw25D70-atC_sRu88TdUytQKhOicN7L0QcRTWDcSDH7aRGOjLcgOTTvtHt-3yGGhdJ-WGRyMO-5zFsHE5VADvhtdWnPRoIIw8Vw8G-jhzl86IIwKdOZ4_GcmOYHzDvxx45WyXACAfRVwajNs2S1Zvj3oP4lzYT1jYx90CeXwtbQvCcd9YomimaDEWMQ4XQ3EeIpbXmRHEH0) and here.
+
 Without means of mining text, most documents end up in 'data landfills' after it has been exploited for its primary purpose. For example, emails languish in mail servers, intelligence reports fill up SharePoint sites. Without stucture, these artefacts cannot be exploited to generate insights. Attempts to retrospectively structure reports are manpower intensive, boring and difficult.
 
 {:class='equal borderless'}
