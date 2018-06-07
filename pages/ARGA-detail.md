@@ -28,7 +28,7 @@ Here's a short demo showing the tool working.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0u0XpdsSB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
-If you can't access these videos, then you can download them <a href="https://storage.googleapis.com/www.arga.uk/arga-concept.mp4">here</a> and <a download="https://storage.googleapis.com/www.arga.uk/arga-demo-short.mp4" download>here</a>.
+If you can't access these videos, then you can download them <a href="https://storage.googleapis.com/www.arga.uk/arga-concept.mp4" download>here</a> and <a href="https://storage.googleapis.com/www.arga.uk/arga-demo-short.mp4" download>here</a>.
 
 Without means of mining text, most documents end up in 'data landfills' after it has been exploited for its primary purpose. For example, emails languish in mail servers, intelligence reports fill up SharePoint sites. Without stucture, these artefacts cannot be exploited to generate insights. Attempts to retrospectively structure reports are manpower intensive, boring and difficult.
 
