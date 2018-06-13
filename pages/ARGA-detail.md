@@ -30,7 +30,7 @@ Here's a short demo showing the tool working.
 
 **If you can't access these videos, then you can download them** <a href="https://storage.googleapis.com/www.arga.uk/arga-concept.mp4" download>here</a> **and** <a href="https://storage.googleapis.com/www.arga.uk/arga-demo-short.mp4" download>here</a>.
 
-Without means of mining text, most documents end up in 'data landfills' after it has been exploited for its primary purpose. For example, emails languish in mail servers, intelligence reports fill up SharePoint sites. Without stucture, these artefacts cannot be exploited to generate insights. Attempts to retrospectively structure reports are manpower intensive, boring and difficult.
+Without a means of structuring text, most documents end up in ‘data landfills’ after they have been exploited for their primary purpose. Emails languish in mail servers, reports fill up SharePoint sites and vital conversations become buried within burgeoning threads on group messaging platforms. In this form, these sources of text cannot be exploited to generate insights. Further, any attempts to retrospectively structure them are manpower intensive, boring and difficult.  
 
 {:class='equal borderless'}
 | ![Illustration showing: Before ARGA - Data producers and consumers confused, frustrated at the lack of order and structure of text based data](../images/ARGAbeforeARGA.png) | ![Illustration showing: With ARGA - Data producers and consumers no longer confused as the ARGA system helps keep text data in a more ledgible stucture](../images/ARGAafterARGA.png) |
