@@ -13,7 +13,7 @@ sitemap: true
 
 ## The Project
 
-ARGA is being funded through the [Defence and Security Accelerator](https://www.gov.uk/government/organisations/defence-and-security-accelerator) under the [‘Revolutionise the Human Information Relationship for Defence’](https://www.gov.uk/government/publications/accelerator-themed-competition-revolutionise-the-human-information-relationship-for-defence) call.  It aims to solve the information management and analysis problems stemming from the use of unstructured natural language text. Phase 1 of ARGA’s development will be completed in December 2017. The project team are keen to gather information and ideas to help shape its thinking about Phase 2 developments, so please get in touch using the provided contact details below if you have any thoughts you would like to share.
+ARGA is being funded through the Defence and Security Accelerator under the ‘Revolutionise the Human Information Relationship for Defence’ call. It aims to solve the information management and analysis problems stemming from the use of unstructured natural language text. Phase 1 of ARGA’s development was successfully completed in December 2017. Phase 2 funding has now been awarded and this stage of the project will conclude in May 2019. The project team are keen to gather information and ideas to help shape its thinking throughout Phase 2, so please get in touch using the provided contact details below if you have any thoughts you would like to share.
 
 ## What does ARGA do?
 
