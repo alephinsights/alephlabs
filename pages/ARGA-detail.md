@@ -3,7 +3,7 @@ title: Adaptive Report Generation Assistant
 description: Create stuctured data about things in documents as you write.
 layout: report
 categories: [tools]
-icon: /images/ARGA_ARGAicon.png
+icon: /images/ARGAicon.png
 iconAlt: ARGA logo
 show-on-top: true
 sitemap: true
