@@ -15,7 +15,8 @@ Based on the [Cayman theme](https://github.com/jasonlong/cayman-theme) with some
 ## Setting up local Ruby & Jekyll dev environment
 
 1. Setup [RVM](https://github.com/rvm/ubuntu_rvm)
-1. Setup ruby - `rvm install ruby`
+    1. Don't `for get to add user to rvm group 'sudo usermod -a -G rvm USERNAME`
+1. Setup ruby - `rvm install ruby` or `rvmsudo rvm install ruby` if you need to use root permissions
 1. Install nodejs - `sudo apt install nodejs`
 1. Setup bundle and jekyll - `gem install bundle && gem install jekyll`
 
